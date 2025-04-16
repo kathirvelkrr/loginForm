@@ -11,7 +11,7 @@ This project is a simple and responsive login form built using HTML and CSS. It'
 
 ## 📂 Project Structure
 
-login-form/ ├── index.html ├── style.css └── README.md
+login-form/ ├── index.html ├── login.css └── README.md
 
 ## 🚀 How to Use
 
